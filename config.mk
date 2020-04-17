@@ -20,7 +20,7 @@ PRODUCT_PACKAGES += \
     NexusWallpapersStubPrebuilt2019Static \
     PixelThemesStub2019 \
     SafetyHubPrebuilt \
-    OPScreenRecorder \
+    OPScreenRecord \
     SettingsIntelligenceGooglePrebuilt
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
