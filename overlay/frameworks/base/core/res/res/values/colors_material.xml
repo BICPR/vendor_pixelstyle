@@ -17,6 +17,6 @@
 <!-- Colors specific to Material themes. -->
 <resources>
 
-    <color name="background_floating_material_dark">@color/black</color>
+    <color name="background_floating_material_dark">#000000</color>
 
 </resources>
